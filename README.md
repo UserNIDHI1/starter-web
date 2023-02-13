@@ -17,6 +17,9 @@ This is a simple web project, deployment can be on any web serveror even local f
 
 ## How To Contribute
 
+### Copyright
+
+2014 Git.Training.
 
 ======
 This repository is for showing how Git and GitHub work

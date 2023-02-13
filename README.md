@@ -1,5 +1,6 @@
 # Starter Web Repo
 
+<<<<<<< HEAD
 This is a simple website project for showing how to use Git and Github together.
 
 ## Introduction
@@ -17,3 +18,14 @@ This is a simple web project, deployment can be on any web serveror even local f
 ## How To Contribute
 
 
+=======
+This repository is for showing how Git and GitHub work
+## Introduction
+
+## Purpose
+
+Sample website with plenty of files for demos
+## Deployment
+
+## How To Contribute
+>>>>>>> dbe9abfb5c62e6b829d00d5ef840e1845009f6d2

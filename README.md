@@ -1,7 +1,7 @@
-# Starter web project
+# Starter Web Repo
 
-##Introduction
+## Introduction
 
-##Purpose
+## Purpose
 
-## How to Contribute
+## How To Contribute

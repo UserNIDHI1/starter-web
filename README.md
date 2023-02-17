@@ -1,5 +1,5 @@
 # Starter Web Repo
-
+Hello World
 <<<<<<< HEAD
 This is a simple website project for showing how to use Git and Github together. updating for emergency fix after stashing.
 
